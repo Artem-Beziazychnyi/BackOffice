@@ -35,6 +35,6 @@ How to run UI
 By default, the server will run on 8080 port localhost e.g. http://localhost:8080
 if 80 port busy the server will run on 81 port e.g. http://localhost:8081
 
-Files fot upload you can find in root folder.
+Files for upload you can find in root folder.
 
 
