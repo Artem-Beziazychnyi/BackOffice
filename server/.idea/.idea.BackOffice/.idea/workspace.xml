@@ -12,20 +12,20 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/BackOffice/Migrations/20200314101209_Initial.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/BackOffice/Migrations/ApplicationDbContextModelSnapshot.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/BackOffice/Program.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/BackOffice/Migrations/20200317124001_initNewChema.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BackOffice/Models/Brand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BackOffice/Models/BrandQuantityTimeReceived.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BackOffice/Startup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BackOffice/Controllers/UploadController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BackOffice/Controllers/BrandsController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BackOffice/Repository/BrandQuantityTimeReceived.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/BackOffice/Models/Brand.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BackOffice/Repository/ApplicationDbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BackOffice/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BackOffice/Repository/BrandRepository.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/BackOffice/Models/BrandQuantityTimeReceived.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BackOffice/Migrations/20200315141457_addName.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/BackOffice/Migrations/20200318100510_cascade.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BackOffice/Migrations/20200314101209_Initial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BackOffice/Migrations/ApplicationDbContextModelSnapshot.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BackOffice/Migrations/20200317124001_initNewChema.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -33,15 +33,16 @@
         <option value="$PROJECT_DIR$/BackOffice/Models/Brand.cs" />
         <option value="$PROJECT_DIR$/BackOffice/Models/BrandQuantityTimeReceived.cs" />
         <option value="$PROJECT_DIR$/BackOffice/Startup.cs" />
-        <option value="$PROJECT_DIR$/BackOffice/Repository/BrandQuantityTimeReceived.cs" />
         <option value="$PROJECT_DIR$/BackOffice/Repository/ApplicationDbContext.cs" />
         <option value="$PROJECT_DIR$/BackOffice/Controllers/UploadController.cs" />
         <option value="$PROJECT_DIR$/BackOffice/Controllers/BrandsController.cs" />
         <option value="$PROJECT_DIR$/BackOffice/Repository/BrandRepository.cs" />
+        <option value="$PROJECT_DIR$/BackOffice/Repository/BrandQuantityTimeReceived.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1ZLjZX606coCJ5yF5pZt05Q861Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
@@ -110,6 +111,7 @@
       <workItem from="1584653299192" duration="493000" />
       <workItem from="1584706301574" duration="3095000" />
       <workItem from="1584717103200" duration="51000" />
+      <workItem from="1585132596561" duration="289000" />
     </task>
     <servers />
   </component>
@@ -118,6 +120,17 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
   </component>
