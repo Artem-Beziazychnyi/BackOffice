@@ -34,7 +34,7 @@ namespace BackOffice.Repository
         /// <summary>
         /// Add a new record to brand quantity change log
         /// </summary>
-        /// <param name="brand"></param>
+        /// <param name="brandQuantitieTimeReceived"></param>
         public void Add(BrandQuantityTimeReceived brandQuantitieTimeReceived)
         {
             context.BrandQuantitiesTimeReceived.Add(brandQuantitieTimeReceived);
